@@ -1,0 +1,12 @@
+shoae=int(input('shoae ostovaneh: '))
+ertefae=int(input('ertefae ostovaneh:'))
+pi=3.14
+masashatkol=((2*pi*shoae*ertefae)+(2*pi*shoae*shoae))
+masahatjanebi=(2*pi*shoae*ertefae)
+hajm=(pi*shoae*shoae*ertefae)
+print("masahatkil=")
+print(masahatkol)
+print("masahatjanebi=")
+print(masahatjanebi)
+print("hajm=")
+print(hajm)
